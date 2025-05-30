@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "ElevenLabsSDK",
     platforms: [
-        .iOS(.v16),
+        .iOS(.v15),
     ],
     products: [
         .library(
